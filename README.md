@@ -1,13 +1,12 @@
 # JOJO All STAR 🌟<br>
 a 2d Fightng Game built with [KaboomJs ](http://kaboomjs.com/ "KaboomJs ")
-<br>
 ## How to Run
 Download assets zip file from Here and extract in game directory.
 
-install dependencies
+install dependencies<br>
 `npm install`
 
-run dev server
+run dev server<br>
 `npm run dev`
 
 ##Controls
