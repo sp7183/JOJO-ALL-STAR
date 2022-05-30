@@ -8,7 +8,6 @@ import {
   addFire,
   addSpin,
 } from "./effects.js";
-import { Player } from "./Player.js";
 async function collisions({
   opponentTag,
   me,
