@@ -8,7 +8,7 @@ const k = kaboom({
   crisp: false,
   // texFilter: "linear",
   font: "apl386o",
-  backgrond: [0, 0, 0, 0],
+  background: [0, 0, 0, 0],
 });
 window.vw = 0.01 * width();
 window.vh = 0.01 * height();
