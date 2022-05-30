@@ -9,10 +9,10 @@ install dependencies<br>
 run dev server<br>
 `npm run dev`
 
-##Controls
+## Controls
 You can change controls in game.js file
 
-####Player One
+#### Player One
 `W` `A` `S`  `D` For movement of player<br>
 
 `J` `K` `L` `I` For Different Attacks<br>
@@ -21,7 +21,7 @@ You can change controls in game.js file
 
 `O` For charging the Stand Energy Bar, if its Zero stands wont attack
 
-####Player Two
+#### Player Two
 Arrow `UP` `DOWN` `LEFT`  `RIGHT` For movement of player<br>
 
 `1` `2` `3` `5` For Different Attacks<br>
@@ -33,7 +33,7 @@ Arrow `UP` `DOWN` `LEFT`  `RIGHT` For movement of player<br>
 There are different move set depending if stand is out or not<br>
 Player Two controls only work in Training Mode
 
-##Screen Shots
+## Screen Shots
 
 ![INTRO](https://i.imgur.com/D5sBhMR.png "INTRO")<br>
 ![MENU](https://i.imgur.com/Li7tsSw.png "MENU")<br>
